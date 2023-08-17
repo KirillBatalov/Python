@@ -6,3 +6,4 @@ elif month2check == 'февраль':
     print('В месяце 28 или 29 дней.')
 else:
     print('В месяце 30 дней.')
+print('Гы')
